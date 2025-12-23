@@ -9,9 +9,9 @@
 - **Architecture & Tools:** Docker, GitHub Actions, WebSockets, REST API
 
 ### Open for opportunities
-[<img align="left" alt="Telegram" width="24px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/telegram.svg" />](t.me)
+[<img align="left" alt="Telegram" width="24px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/telegram.svg" />](https://t.me/therealmaendeleo/)
 &nbsp;
-[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/linkedin.svg" />](www.linkedin.com)
+[<img align="left" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/linkedin.svg" />](https://www.linkedin.com/in/therealmaendeleo/)
 &nbsp;
 [<img align="left" alt="Email" width="24px" src="https://raw.githubusercontent.com/yegor256/blog/refs/heads/master/_glyphs/mail.svg" />](mailto:vlad.karmanchikofff@gmail.com)
 
